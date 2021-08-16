@@ -1,0 +1,1 @@
+export { TeacherUserType } from './TeacherUserType'

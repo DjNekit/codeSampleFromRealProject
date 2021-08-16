@@ -1,0 +1,4 @@
+node_modules
+webpack.config.js
+**/js/**/*.js
+!**/js/mypage/**/*.js

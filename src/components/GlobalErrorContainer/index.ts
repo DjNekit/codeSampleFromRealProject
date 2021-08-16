@@ -1,0 +1,1 @@
+export { GlobalErrorContainer } from './GlobalErrorContainer'

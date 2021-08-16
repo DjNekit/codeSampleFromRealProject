@@ -1,0 +1,7 @@
+[auth]
+token=examplef3af8f8740f1bf1e59764b70d2aa
+
+[defaults]
+url=http://example.com:1111
+project=frontend
+org=example

@@ -1,0 +1,19 @@
+:global(.ui.transparent.input.blue) input:focus,
+:global(.ui.transparent.input.blue) input:hover {
+    border-bottom-color: #2185d0!important;
+}
+
+:global(.ui.transparent.input.orange) input:focus,
+:global(.ui.transparent.input.orange) input:hover {
+    border-bottom-color: #f2711c!important;
+}
+
+:global(.ui.transparent.input.green) input:focus,
+:global(.ui.transparent.input.green) input:hover {
+    border-bottom-color: #21ba45!important;
+}
+
+:global(.ui.transparent.input.purple) input:focus,
+:global(.ui.transparent.input.purple) input:hover {
+    border-bottom-color: #a333c8!important;
+}
